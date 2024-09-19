@@ -1,6 +1,6 @@
 # Dungeons and Dragons 5° edition Spell Database 📜
 
-<img src="MER.png" alt="MER">
+<img src="MER D&D spells.png" alt="MER">
 
 ## Instalando
 - Clone o repositorio
